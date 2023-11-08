@@ -1,70 +1,18 @@
-# Getting Started with Create React App
+**Code Crunch 2023 - Team A **
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Problem Description: **
+The first month or days of a company can feel like a blur for an employee or a new client. New hires are getting to know their co-workers, managers, the job, the company, the tasks. A new client needs to understand projects, products the company is handling and everything in between. As a manager, hopefully, you’ve been able to spend adequate time with your newly hired employees or you can handle client questions and doubts on one-on-one chats. Being available for feedback questions as they relate to manager interaction, cost management, products, innovations handling, team dynamics and career progression will help you understand the company. 
 
-## Available Scripts
+Even though an employee or client can inquire or raise questions through Microsoft teams chat, the possibility of feedback or giving answers can be short or long. There may be critical questions and short questions. The product facilitates answers to questions related to the company. 
 
-In the project directory, you can run:
+**Solution:  **
 
-### `npm start`
+A bot designed to answer common user questions within a conversational interface related to the company. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Innovativeness & Uniqueness of the product: **
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+An employee or client can assist you on any step on the journey, respond in a manner of seconds, and serve multiple employees or clients at the same time. The chatbot can be a great ally in generating new leads and nurturing them with new questions and answers. 
 
-### `npm test`
+**Technical overview:  **
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Conversational interface which is a Q n A chatbot using Azure language studio that can provide a user-friendly interface to employees and clients. 
