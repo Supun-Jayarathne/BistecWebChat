@@ -27,7 +27,7 @@ function App() {
            padding: '10px', // Optional: Add padding to the iframe container
          }}
        >
-        <iframe src='https://webchat.botframework.com/embed/SupunBotLanguage-QnATestBot?s=n0kWzdSgBLQ.RvpbJbURsNcWeA4gtG5R2mxoyrUAXNqm6ZlFEiWjoRo'  style={{ height: '400px' }}/>
+        <iframe title="Bistec Chat Bot" src='https://webchat.botframework.com/embed/SupunBotLanguage-QnATestBot?s=n0kWzdSgBLQ.RvpbJbURsNcWeA4gtG5R2mxoyrUAXNqm6ZlFEiWjoRo'  style={{ height: '400px' }}/>
         </div>
       )}
     </div>
