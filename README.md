@@ -1,4 +1,5 @@
 **Code Crunch 2023 - Team A**
+**Project Url:** https://yellow-flower-0ec3c4a0f.4.azurestaticapps.net/
 
 **Problem Description:**
 The first month or days of a company can feel like a blur for an employee or a new client. New hires are getting to know their co-workers, managers, the job, the company, the tasks. A new client needs to understand projects, products the company is handling and everything in between. As a manager, hopefully, you’ve been able to spend adequate time with your newly hired employees or you can handle client questions and doubts on one-on-one chats. Being available for feedback questions as they relate to manager interaction, cost management, products, innovations handling, team dynamics and career progression will help you understand the company. 
