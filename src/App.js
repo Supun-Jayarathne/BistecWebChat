@@ -28,8 +28,6 @@ function App() {
          }}
        >
         <iframe src='https://webchat.botframework.com/embed/SupunBotLanguage-QnATestBot?s=n0kWzdSgBLQ.RvpbJbURsNcWeA4gtG5R2mxoyrUAXNqm6ZlFEiWjoRo'  style={{ height: '400px' }}/>
-        {/* <iframe src="https://webchat.botframework.com/embed/BistecBot?s=xZ0cKtTMJDc.LLNeuarYhVOyP-RxU2-uO7SWgUuRywxzKs0PXpAFnWI" title="Chatbot" 
-        style={{ height: '400px' }} /> */}
         </div>
       )}
     </div>
